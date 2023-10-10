@@ -1,4 +1,3 @@
-Erply homework
 This Terraform AWS code will deploy random PHP application from github that will run on Nginx webserver.
 
 Terraform script will create:
